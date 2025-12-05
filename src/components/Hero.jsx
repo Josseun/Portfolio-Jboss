@@ -10,7 +10,7 @@ import Heropic from "../assets/King.jpg";
 const hero = () => {
   return (
     <section
-      className="flex justify-between items-center p-10 space-x-10
+      className="flex justify-between items-center px-10 py-5 space-x-10
      lg:flex-row ssm:flex-col ssm:space-y-10 text-white"
     >
       <div className="lg:w-1/2 ssm:w-fit">
