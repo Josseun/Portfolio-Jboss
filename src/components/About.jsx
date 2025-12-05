@@ -3,10 +3,7 @@ import React from "react";
 function About() {
   return (
     <div>
-      <section
-        id="about"
-        className="w-full bg-[#1f1f1f] text-gray-200 py-20 px-6 md:px-16"
-      >
+      <section className="w-full bg-[#2a2a2a] text-gray-200 py-20 px-6 md:px-16">
         <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-14 items-start">
           <div>
             <h2 className="text-3xl md:text-4xl font-bold mb-6">About Me</h2>
